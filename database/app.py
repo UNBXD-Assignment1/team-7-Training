@@ -180,6 +180,7 @@ def get_category_products():
     # Lookup category ID of corresponding hierarchy from category table
     cur.execute(GET_CATEGORY_ID, (catlevel2Name, catlevel1Name))
     print(catlevel2Name, catlevel1Name)
+
     category_id = cur.fetchone()[0]
 
     # Check if the given hierarchy exists in database
@@ -204,6 +205,8 @@ def get_category_products():
     # num_products = 100
     num_products = len(category_products)
     print(num_products)
+
+    if(sort is not None and len(sort) > 0):
 
     # sort product list if sort parameter is present 
     if(sort is not None and len(sort) > 0):
