@@ -1,3 +1,4 @@
+[![k8s_build](https://github.com/UNBXD-Assignment1/team-7-Training/actions/workflows/k8s_build.yml/badge.svg?branch=main)](https://github.com/UNBXD-Assignment1/team-7-Training/actions/workflows/k8s_build.yml)
 # unbxd_team7
 Assignment briefing: https://docs.google.com/document/d/1x1ZnGbpnZDiuCTA8oWP1pvXK1Hdzw8XUlDzdjw5zQKM/edit?usp=sharing <br>
 Design document: https://docs.google.com/document/d/1Mp1Vo7OnLveeC7cfIkHc3Lhp2cZCQvZFSeLbucDRczY/edit?usp=sharing <br>
