@@ -4,7 +4,7 @@ Assignment briefing: https://docs.google.com/document/d/1x1ZnGbpnZDiuCTA8oWP1pvX
 Design document: https://docs.google.com/document/d/1Mp1Vo7OnLveeC7cfIkHc3Lhp2cZCQvZFSeLbucDRczY/edit?usp=sharing <br>
 <hr/>
 
-# Summary
+# Summary Soumya
 This repository contains the code used to build a simple e-commerce website for 'The Clothes Line', a small business which sells apparels and deploying it using Kubernetes. The website allows users to browse and view the products online, sort according to categories and subcategories of products, price and releveance. From a vendor's perspective, products can be seamlessly inserted into the catalog. In addition to being fault tolerant, the website is able to handle 50 requests per second with minimal CPU footprint. 
 
 Tech stack:
